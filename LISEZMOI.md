@@ -1,14 +1,14 @@
-# Création d'un fichier INF à partir de sources en Markdown
+# Création d'un fichier d'aide au format IPF à partir de sources en Markdown
 
-Ce projet consiste en un script Lua et en un *Makefile*, lesquels permettent la création d'un document au [format de l'aide IBM](http://www.hypermake.com/english/n024.html#hd24), à partir de fichiers sources en Markdown.
+Ce projet consiste en un script Lua et en un *Makefile*, lesquels permettent la création d'un fichier d'aide au format IPF, à partir de fichiers sources en Markdown.
 
-Dans notre cas, le fichier INF contiendra un cours de philosophie.
+Le [format IPF](http://www.hypermake.com/english/n024.html#hd24) (pour *Information Presentation Facility*) était le format des fichiers d'aide IBM.
+
+Dans notre cas, le fichier d'aide est un cours de philosophie. Les fichiers Markdown en sont les chapitres.
 
 ## De Markdown en IPF
 
-Les fichiers IPF (pour *Information Presentation Facility*) sont les fichiers sources de l'aide au format IBM.
-
-Dans notre cas, le fichier IPF est créé par le script *md2ipf.lua*, qui convertit le contenu des fichiers Markdown.
+Le fichier IPF est créé par le script *md2ipf.lua*, qui convertit le contenu des fichiers Markdown.
 
 ## D'IPF en INF
 

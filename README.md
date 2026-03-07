@@ -1,10 +1,10 @@
-# Create INF file from Markdown sources
+# Create a help file in IPF format from Markdown sources
 
-Create a document in [IBM help format](http://www.hypermake.com/english/n024.html#hd24) from Markdown sources.
+Create a document in IPF format from Markdown sources, with a Lua script and a *Makefile*.
+
+The IPF format (for *Information Presentation Facility*) was the format of [IBM help files](http://www.hypermake.com/english/n024.html#hd24).
 
 ## Markdown to IPF
-
-IPF files (Information Presentation Facility) are the source format of the IBM help format.
 
 The Mardown files are converted to a single IPF file by the script *md2ipf.lua*.
 
