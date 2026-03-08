@@ -1,3 +1,5 @@
-*-cp850.ipf
+*.ipf
 *.inf 
 *.sh
+
+.bash_history
