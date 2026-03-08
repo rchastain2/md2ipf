@@ -1,21 +1,13 @@
 
 # Sur la physique
 
-De la rondeur de la Terre. Du mouvement de la Terre. Sur le préjugé qui veut qu'il n'y ait pas de science hors de la physique. Sur l'oeuf et la poule.
+De la rondeur de la Terre. Du mouvement de la Terre. Sur le préjugé qui veut qu'il n'y ait pas de science hors de la physique expérimentale.
 
-Le mot de *physique* n'a pas toujours eu la même signification. Ce mot n'a pas le même sens chez Aristote et chez Descartes. Depuis Descartes, la physique est la science de la matière. C'est ce qu'on appelle aussi la physique mathématique. Pesanteur. Il y a des corps lourds et des corps légers. Les corps lourds ont tendance à rejoindre leur lieu naturel qui est le centre de la terre.
+Astronomes. Pierre Duhem, *La théorie physique : son objet, sa structure*.
 
-Astronomes.
-Pierre Duhem, *La théorie physique : son objet, sa structure*.
 J. de Maistre, *Examen de la philosophie de Bacon*. Il s'agit de Francis Bacon, l'auteur du *Novum organum* (à ne pas confondre avec l'immense peintre Francis Bacon).
 
-## II. L'oeuf et la poule.
-
-On dit qu'on ne peut pas savoir qui de l'oeuf ou de la poule est venu le premier. Cette question serait insoluble. Scepticisme.
-
-Cette question est-il si difficile qu'on le dit ? L'**observation**, l'**expérience** nous apprennent qu'un oeuf doit être couvé. Il paraît certain qu'il y a eu d'abord une poule et un coq. Pour commencer un élevage de poules, il faut nécessairement une poule et un coq.
-
-## III. Sur la rondeur de la terre.
+## Sur la rondeur de la terre.
 
 Comment sait-on que la terre est ronde ? Car, c'est une chose qu'on a toujours sue, contrairement à une idée répandue.
 
@@ -35,7 +27,7 @@ Copernic, *Des révolutions des orbes célestes*.
 
 Lorsque la terre n'est pas aperçue du navire, elle est vue du sommet du mât. Si l'on attache un feu au sommet du mât, celui-ci, lorsque le navire s'éloigne de la terre, paraît à ceux qui demeurent sur le rivage s'abaisser petit à petit, jusqu'à ce qu'il disparaisse enfin, comme s'il se couchait.
 
-## IV. Sur le mouvement de la terre.
+## Sur le mouvement de la terre.
 
 « Autrefois on croyait que le soleil tournait autour de la terre. Maintenant on sait... »
 
@@ -61,9 +53,9 @@ Héraclide de Pont.
 
 « C'est pour cela qu'Héraclide de Pont déclarait qu'il est possible de sauver l'irrégularité apparente du mouvement du Soleil en admettant que le Soleil demeure immobile et que la Terre se meut d'une certaine manière. Il n'appartient donc aucunement à l'astronome de connaître quel corps est en repos par nature, de quelle qualité sont les corps mobiles ; il pose à titre d'hypothèse que tels corps sont immobiles, que tels autres sont en mouvement, et il examine quelles sont les suppositions avec lesquelles s'accordent les apparences célestes. »
 
-## V. Sur le préjugé qui veut qu'il n'y ait de science que la physique expérimentale.
+## S'il n'y a de science que la physique expérimentale
 
-Résumé de la partie précédente.
+Sur le préjugé qui veut qu'il n'y ait de science que la physique expérimentale.
 
 Duhem, *Sauver les phénomènes*. Le but de la physique est de *sauver les phénomènes*. Cette expression vient de Simplicius, un philosophe platonicien. Astronomie. Les phénomènes : les choses qu'on voit, qu'on observe. Sauver les phénomènes, **imaginer** une combinaison de mouvements dont le résultat soit conforme à l'observation. **Or il est possible de sauver les apparences au moyen de plusieurs hypothèses.** Hypothèse géocentrique, hypothèse héliocentrique, etc. Épicycles. Ni l'immobilité de la terre ni l'immobilité du soleil ne sont des vérités.
 
@@ -77,4 +69,4 @@ Pour Bacon, il n'y a qu'une science, la physique expérimentale. Les autres scie
 
 Revenons aux idées de Bacon sur la physique. Chapitre XII de l'*Examen de la philosophie de Bacon*.
 
-Maistre traduit avec malice un texte où Bacon parle de ce qui pourrait devenir possible avec le progrès des sciences expérimentales. Ce texte fait penser à l'alchimie. D'un autre côté, certaines prédictions de Bacon se sont réalisées.
+Maistre traduit avec malice un texte où Bacon parle de ce qui pourrait devenir possible avec le progrès des sciences expérimentales.

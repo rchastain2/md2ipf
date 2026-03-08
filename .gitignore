@@ -1,5 +1,4 @@
-*.ipf
-*.inf 
+*.i?f
 *.sh
-
 .bash_history
+tmp/
