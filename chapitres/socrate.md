@@ -1,16 +1,16 @@
 # Socrate, ou le plus sage des hommes
 
-## Le procès de Socrate
-
 En 399 av. J.-C, la justice athénienne condamne un *philosophe* nommé Socrate à boire du poison. C'est le procès de ce philosophe qui est raconté dans le livre intitulé :hp1.Apologie de Socrate:ehp1., c'est-à-dire défense de Socrate.
 
-On reproche à Socrate, entre autres choses, d'enseigner qu'il n'y a pas de dieux. Il prétend, lui, que cette accusation est mensongère ; que c'est une calomnie venant de gens qui le haïssent.
-
-### Vocabulaire
+## Vocabulaire
 
 - **Philosophe :**. Celui qui cherche la vérité.
 
 On dit que c'est Pythagore qui a inventé le mot de *philosophie*. Quelqu'un louait la sagesse de Pythagore. Ce dernier aurait répondu : Hélas, je ne crois pas mériter ce nom de sage ; je suis seulement un ami de la sagesse (en grec, un *philosophe*).
+
+## Le procès de Socrate
+
+On reproche à Socrate, entre autres choses, d'enseigner qu'il n'y a pas de dieux. Il prétend, lui, que cette accusation est mensongère ; que c'est une calomnie venant de gens qui le haïssent.
 
 ## L'oracle de Delphes
 
@@ -18,7 +18,7 @@ On a dit de Socrate qu'il était **le plus sage des hommes**.
 
 Plus précisément, c'est **l'oracle de Delphes** qui a dit qu'il n'y avait pas d'homme dans le monde qui soit plus sage que Socrate.
 
-### Vocabulaire
+## Vocabulaire
 
 - **Oracle :** Chez les païens, réponse de la divinité à ceux qui la consultaient.
 - **Paganisme :** Les religions antérieures au christianisme.
@@ -47,7 +47,7 @@ Socrate n'a pas plus de lumières que les autres sur ce sujet. Mais à la diffé
 
 Nous verrons, en lisant le *Gorgias*, que Socrate croit non seulement à l'immortalité de l'âme, mais aussi à la justice divine : c'est-à-dire à l'idée qu'il y a une autre vie après celle-ci, plus heureuse ou plus malheureuse, suivant la façon dont on a vécu.
 
-### Vocabulaire
+## Vocabulaire
 
 - **Les enfers :** le séjour des morts. Les chrétiens croient que Jésus-Christ *est descendu aux enfers*. Les poètes racontent qu'Orphée *est descendu aux enfers* pour en ramener sa fiancée Eurydice.
 
@@ -63,7 +63,7 @@ Socrate nous donne aussi une idée de ce qu'est la justice en elle-même : la ju
 
 Vision aristocratique.
 
-### Vocabulaire
+## Vocabulaire
 
 - **Aristocratie :** Gouvernement des meilleurs, des plus sages.
 

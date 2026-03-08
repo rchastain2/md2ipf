@@ -6,16 +6,25 @@ PROJECT := philosophie
 PROJECT_TITLE := Cours de philosophie (en construction)
 
 ## Chapitres (dans l'ordre)
+
 PROJECT_SOURCE := \
 chapitres/socrate.md \
-chapitres/justice.md
+chapitres/gorgias.md \
+chapitres/justice.md \
+chapitres/contrat.md \
+chapitres/langage.md \
+chapitres/metaphysique.md \
+chapitres/physique.md \
+chapitres/botanique.md \
+chapitres/liberte.md \
+chapitres/art.md
 
 ## Compilateur IPF
 WATCOM := $(HOME)/apps/open-watcom
 WIPFC  := $(WATCOM)/bld/wipfc/atadir/wipfc
 
 ## Visionneuse
-DOCVIEW := $(HOME)/Documents/pascal/outils/docview/docview
+DOCVIEW := $(HOME)/Documents/pascal/outils/docview-2026/src/main/pascal/docview
 
 ## Script Lua pour la conversion de Markdown en IPF
 LUA_SCRIPT := md2ipf.lua

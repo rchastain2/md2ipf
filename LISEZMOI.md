@@ -26,10 +26,11 @@ Le fichier INF peut enfin être ouvert dans [DocView](https://github.com/graemeg
 
 ### Installer wipfc
 
-```
-git clone https://github.com/open-watcom/open-watcom-v2.git && \
-cd open-watcom-v2/bld/wipfc && \
-./configure && \
+```bash
+git clone https://github.com/open-watcom/open-watcom-v2.git
+cd open-watcom-v2/bld/wipfc
+./configure
+make
 sudo make install
 ```
 

@@ -24,10 +24,11 @@ The INF files can be opened in [DocView](https://github.com/graemeg/fpGUI/tree/d
 
 ### Install wipfc
 
-```
-git clone https://github.com/open-watcom/open-watcom-v2.git && \
-cd open-watcom-v2/bld/wipfc && \
-./configure && \
+```bash
+git clone https://github.com/open-watcom/open-watcom-v2.git
+cd open-watcom-v2/bld/wipfc
+./configure
+make
 sudo make install
 ```
 
