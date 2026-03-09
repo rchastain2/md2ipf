@@ -43,6 +43,9 @@ $(PROJECT): $(CHAPTERS)
 release: $(PROJECT)
 	zip $(PROJECT)-$(VERSION).zip book.inf 
 
+edit:
+	textadept $(CHAPTERS)
+
 clean:
 	rm -fv *.i?f
 	rm -fv tmp/*.i?f
