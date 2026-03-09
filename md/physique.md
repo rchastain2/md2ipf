@@ -11,23 +11,29 @@ J. de Maistre, *Examen de la philosophie de Bacon*. Il s'agit de Francis Bacon, 
 
 Comment sait-on que la terre est ronde ? Car, c'est une chose qu'on a toujours sue, contrairement à une idée répandue.
 
+### Observation de la hauteur méridienne du soleil
+
 Lalande, astronome du XVIIIe siècle.
 
-L'**observation de la hauteur méridienne du soleil** en différents pays, fut la première chose qui dut apprendre aux hommes que la terre était ronde.
+> L'observation de la hauteur méridienne du soleil en différents pays, fut la première chose qui dut apprendre aux hommes que la terre était ronde.
 
-Autre preuve, les croissants de lune. Ombre de la terre.
+Croissants de lune. Ombre de la terre.
 
-Autre preuve, les vaisseaux vus de loin en pleine mer, disparaissent par degrés.
+Les vaisseaux vus de loin en pleine mer, disparaissent par degrés.
+
+### Lecture
+
+Copernic, *Des révolutions des orbes célestes*.
+
+> Lorsque la terre n'est pas aperçue du navire, elle est vue du sommet du mât. Si l'on attache un feu au sommet du mât, celui-ci, lorsque le navire s'éloigne de la terre, paraît à ceux qui demeurent sur le rivage s'abaisser petit à petit, jusqu'à ce qu'il disparaisse enfin, comme s'il se couchait.
+
+## Grandeur de la terre
 
 Le même moyen permet de connaître la grandeur, la circonférence de la terre.
 
 La circonférence de la terre est de 9000 lieues, ou 360 fois la distance à vol d'oiseau de Paris à Amiens. La latitude d'Amiens est plus grande que celle de Paris d'un degré. La lieue commune de France vaut exactement 4,4453 km.
 
-Copernic, *Des révolutions des orbes célestes*.
-
-Lorsque la terre n'est pas aperçue du navire, elle est vue du sommet du mât. Si l'on attache un feu au sommet du mât, celui-ci, lorsque le navire s'éloigne de la terre, paraît à ceux qui demeurent sur le rivage s'abaisser petit à petit, jusqu'à ce qu'il disparaisse enfin, comme s'il se couchait.
-
-## Sur le mouvement de la terre.
+## Mouvement de la terre.
 
 « Autrefois on croyait que le soleil tournait autour de la terre. Maintenant on sait... »
 

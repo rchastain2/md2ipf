@@ -1,50 +1,47 @@
 
-## Nom du document final
-PROJECT := philo
+PROJECT := philosophie
+TITLE := Cours de philosophie (en construction)
 
-## Titre du document
-PROJECT_TITLE := Cours de philosophie (en construction)
+CHAPTERS := \
+socrate \
+apprendre \
+gorgias \
+justice \
+contrat \
+langage \
+metaphysique \
+physique \
+botanique \
+liberte \
+art
 
-## Chapitres (dans l'ordre)
-
-PROJECT_SOURCE := \
-md/socrate.md \
-md/apprendre.md \
-md/gorgias.md \
-md/justice.md \
-md/contrat.md \
-md/langage.md \
-md/metaphysique.md \
-md/physique.md \
-md/botanique.md \
-md/liberte.md \
-md/art.md
-
-## Compilateur IPF
-WATCOM := $(HOME)/apps/open-watcom
-WIPFC  := $(WATCOM)/bld/wipfc/atadir/wipfc
-
-## Visionneuse
+CHAPTERS := $(foreach item,$(CHAPTERS),md/$(item).md)
+WIPFC := $(HOME)/apps/open-watcom/bld/wipfc/atadir/wipfc
 DOCVIEW := $(HOME)/apps/docview/docview
+VERSION := $(shell date '+%y%m%d')
+SCRIPT := md2ipf.lua
 
-## Script Lua pour la conversion de Markdown en IPF
-LUA_SCRIPT := md2ipf.lua
+$(PROJECT): $(CHAPTERS)
+	lua $(SCRIPT) "$(TITLE)" $^ > book.ipf
+	make book
 
-default: $(PROJECT).inf
+%: md/%.md
+	lua $(SCRIPT) "$(TITLE)" $< > chapter.ipf
+	make chapter
 
-$(PROJECT).ipf: $(PROJECT_SOURCE)
-	@lua $(LUA_SCRIPT) "$(PROJECT_TITLE)" $^ > $@
+%: %.ipf
+	## Création dossier temporaire
+	mkdir -p tmp
+	## Changement encodage
+	iconv -f UTF-8 -t CP850 $< -o tmp/cp850.ipf
+	## Compilation fichier IPF
+	env WIPFC=$(WIPFC) wipfc -i -o $@.inf -q tmp/cp850.ipf
+	## Ouverture fichier INF dans la visionneuse, avec recherche d'un mot
+	$(DOCVIEW) $@.inf -k "science"
 
-$(PROJECT).inf: $(PROJECT).ipf Makefile
-	@## Création d'un dossier temporaire
-	@mkdir -p tmp
-	@## Changement d'encodage (d'UTF-8 en CP850)
-	@iconv -f UTF-8 -t CP850 $< -o tmp/cp850.ipf
-	@## Compilation du fichier IPF
-	@env WIPFC=$(WIPFC) wipfc -i -o $@ -q tmp/cp850.ipf
-	@## Ouverture du fichier INF dans la visionneuse et recherche d'un mot
-	@$(DOCVIEW) $@ -k "science"
+release: $(PROJECT)
+	zip $(PROJECT)-$(VERSION).zip book.inf 
 
 clean:
-	@rm -fv *.i?f
-	@rm -fv tmp/*.i?f
+	rm -fv *.i?f
+	rm -fv tmp/*.i?f

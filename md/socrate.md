@@ -18,10 +18,19 @@ On a dit de Socrate qu'il était **le plus sage des hommes**.
 
 Plus précisément, c'est **l'oracle de Delphes** qui a dit qu'il n'y avait pas d'homme dans le monde qui soit plus sage que Socrate.
 
-## Vocabulaire
+### Vocabulaire
 
 - **Oracle :** Chez les païens, réponse de la divinité à ceux qui la consultaient.
 - **Paganisme :** Les religions antérieures au christianisme.
+
+### Vocabulaire (dl)
+
+:dl compact break=all.
+:dt.:hp2.Oracle:ehp2.
+:dd.Chez les païens, réponse de la divinité à ceux qui la consultaient.
+:dt.:hp2.Paganisme:ehp2.
+:dd.Les religions antérieures au christianisme.
+:edl.
 
 ## Le sens de l'oracle
 

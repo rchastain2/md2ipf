@@ -3,15 +3,6 @@
 
 Notions du programme : Le bonheur, la justice, l'art.
 
-## Les grandes questions de la philosophie d'après Kant.
-
-- Que puis-je savoir ?
-- Que dois-je faire ?
-- Que m'est-il permis d'espérer ?
-- Qu'est-ce que l'homme ?
-
-Métaphysique, morale, religion, anthropologie.
-
 ## Présentation du Gorgias.
 
 Le sujet du livre, les questions qui sont examinées.
