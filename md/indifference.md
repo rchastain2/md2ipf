@@ -1,18 +1,18 @@
 # L'indifférence
 
-Étude d'un fragment des *Pensées* de Pascal.
+Sur l'indifférence de l'homme à sa destinée. Étude d'un fragment des *Pensées* de Pascal.
 
-Notion du programme : la religion.
+Les *Pensées* de Pascal sont une **apologie** de la religion chrétienne, contre ceux qu'on appelle alors les *esprits forts* ou les *libertins*.
 
-Les *Pensées* sont une **apologie** de la religion chrétienne, contre ceux qu'on appelle alors les "esprits forts" ou les "libertins".
+- **Apologie :** Discours pour défendre quelqu'on accuse. L'apologie de Socrate.
 
-## Lecture du fragment sur l'indifférence.
-
-L'immortalité de l'âme. (Rappel du chapitre précédent. Descartes montre que l'âme et le corps sont deux choses réellement distinctes, et que l'âme peut exister sans le corps : de sorte que nous n'avons aucune raison de croire qu'en mourant nous cesserons d'avoir des pensées.)
+## L'immortalité de l'âme
 
 La question de l'immortalité de l'âme, c'est la question de savoir s'il y a une autre vie après celle-ci. Pascal montre qu'on ne peut pas être indifférent à cette question. La religion nous enseigne qu'il y a "des biens éternels à espérer". Nous ne vivrons pas de la même façon, remarque Pascal, selon que nous y croyons ou pas. Si nous croyons qu'il y a des biens éternels à espérer, nous ferons en sorte de les obtenir. Si nous n'y croyons, nous "mangerons et boirons" comme dit saint Paul.
 
-Première épître aux Corinthiens : "Si les morts ne ressuscitent pas, alors mangeons et buvons car demain nous mourrons."
+Saint Paul, *Première épître aux Corinthiens*.
+
+> Si les morts ne ressuscitent pas, alors mangeons et buvons car demain nous mourrons.
 
 Du parti que nous prenons sur le sujet dépend toute notre conduite.
 
@@ -32,4 +32,8 @@ L'extravagance du libertin (sa folie) prouverait l'une des vérités de la relig
 
 L'indifférence est une folie, et cette folie prouve la vérité de la religion.
 
-Lecture complémentaire proposée : fragment sur **le divertissement**. Les hommes passent leur vie à se divertir, c'est-à-dire font tout pour ne pas penser à la mort.
+## Lectures complémentaires
+
+Fragment sur **le divertissement**. Les hommes passent leur vie à se divertir, c'est-à-dire font tout pour ne pas penser à la mort.
+
+Descartes, *Discours de la méthode*. L'âme et le corps sont deux choses réellement distinctes, et que l'âme peut exister sans le corps : de sorte que nous n'avons aucune raison de croire qu'en mourant nous cesserons d'avoir des pensées.

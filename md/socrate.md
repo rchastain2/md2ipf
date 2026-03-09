@@ -4,7 +4,7 @@ En 399 av. J.-C, la justice athénienne condamne un *philosophe* nommé Socrate 
 
 ## Vocabulaire
 
-- **Philosophe :**. Celui qui cherche la vérité.
+- **Philosophe :** Celui qui cherche la vérité.
 
 On dit que c'est Pythagore qui a inventé le mot de *philosophie*. Quelqu'un louait la sagesse de Pythagore. Ce dernier aurait répondu : Hélas, je ne crois pas mériter ce nom de sage ; je suis seulement un ami de la sagesse (en grec, un *philosophe*).
 
@@ -23,22 +23,13 @@ Plus précisément, c'est **l'oracle de Delphes** qui a dit qu'il n'y avait pas 
 - **Oracle :** Chez les païens, réponse de la divinité à ceux qui la consultaient.
 - **Paganisme :** Les religions antérieures au christianisme.
 
-### Vocabulaire (dl)
-
-:dl compact break=all.
-:dt.:hp2.Oracle:ehp2.
-:dd.Chez les païens, réponse de la divinité à ceux qui la consultaient.
-:dt.:hp2.Paganisme:ehp2.
-:dd.Les religions antérieures au christianisme.
-:edl.
-
 ## Le sens de l'oracle
 
 Lorsqu'il apprend ce que l'oracle a dit de lui, Socrate est étonné, parce qu'il croit pas être plus sage qu'un autre. Il se demande quel est le :hp2.sens caché:ehp2. de l'oracle.
 
 Afin de découvrir le sens caché de l'oracle, Socrate :hp2.s'entretient:ehp2. avec un politique qui passe pour très sage.
 
-Socrate :hp2.examine:ehp2. cet homme (comme le ferait un médecin ou une sage-femme), et il découvre que cet homme n'est pas aussi sage qu'il croit. Il essaie alors de **faire voir et sentir** à cet homme qu'il n'est pas aussi sage ou aussi savant qu'il croit, et ce faisant il se fait haïr.
+Socrate **examine** cet homme (comme le ferait un médecin ou une sage-femme), et il découvre que cet homme n'est pas aussi sage qu'il croit. Il essaie alors de **faire voir et sentir** à cet homme qu'il n'est pas aussi sage ou aussi savant qu'il croit, et ce faisant il se fait haïr.
 
 Socrate croit finalement comprendre dans quel sens il est plus sage que les autres. À la différence des autres, il ne se croit pas savant. Il est plus sage parce qu'il ne se fait pas une idée exagérée de sa propre science. Il est plus sage parce qu'il est plus humble.
 

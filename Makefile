@@ -13,7 +13,8 @@ metaphysique \
 physique \
 botanique \
 liberte \
-art
+art \
+indifference
 
 CHAPTERS := $(foreach item,$(CHAPTERS),md/$(item).md)
 WIPFC := $(HOME)/apps/open-watcom/bld/wipfc/atadir/wipfc

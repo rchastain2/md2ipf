@@ -1,43 +1,51 @@
 
-# Sur la physique
+# De la terre
 
-De la rondeur de la Terre. Du mouvement de la Terre. Sur le préjugé qui veut qu'il n'y ait pas de science hors de la physique expérimentale.
+C'est le titre de la quatrième partie des *Principes de la philosophie* (de Descartes).
+
+De la rondeur de la terre. De sa grandeur. De son mouvement.
 
 Astronomes. Pierre Duhem, *La théorie physique : son objet, sa structure*.
 
-J. de Maistre, *Examen de la philosophie de Bacon*. Il s'agit de Francis Bacon, l'auteur du *Novum organum* (à ne pas confondre avec l'immense peintre Francis Bacon).
+## I. De la rondeur (et de la grandeur) de la terre
 
-## Sur la rondeur de la terre.
+Comment sait-on que la terre est ronde ?
 
-Comment sait-on que la terre est ronde ? Car, c'est une chose qu'on a toujours sue, contrairement à une idée répandue.
-
-### Observation de la hauteur méridienne du soleil
+### Hauteur méridienne du soleil
 
 Lalande, astronome du XVIIIe siècle.
 
+Observation de la hauteur méridienne du soleil.
+
 > L'observation de la hauteur méridienne du soleil en différents pays, fut la première chose qui dut apprendre aux hommes que la terre était ronde.
+
+### Autres observations
 
 Croissants de lune. Ombre de la terre.
 
 Les vaisseaux vus de loin en pleine mer, disparaissent par degrés.
 
-### Lecture
-
 Copernic, *Des révolutions des orbes célestes*.
 
 > Lorsque la terre n'est pas aperçue du navire, elle est vue du sommet du mât. Si l'on attache un feu au sommet du mât, celui-ci, lorsque le navire s'éloigne de la terre, paraît à ceux qui demeurent sur le rivage s'abaisser petit à petit, jusqu'à ce qu'il disparaisse enfin, comme s'il se couchait.
 
-## Grandeur de la terre
+### Grandeur de la terre
 
 Le même moyen permet de connaître la grandeur, la circonférence de la terre.
 
 La circonférence de la terre est de 9000 lieues, ou 360 fois la distance à vol d'oiseau de Paris à Amiens. La latitude d'Amiens est plus grande que celle de Paris d'un degré. La lieue commune de France vaut exactement 4,4453 km.
 
-## Mouvement de la terre.
+Ératosthène.
 
-« Autrefois on croyait que le soleil tournait autour de la terre. Maintenant on sait... »
+### De la terre plate
 
-Cette question est mal posée. Celui qui parle ainsi ne sait pas ce qu'il dit.
+Sur le mythe de la terre plate.
+
+## II. Du mouvement de la terre
+
+Lieu commun.
+
+> Autrefois on croyait que le soleil tournait autour de la terre. Maintenant on sait...
 
 Mouvement absolu et mouvement relatif. On ne peut jamais observer qu'un mouvement relatif, c'est-à-dire le mouvement d'un corps par rapport à un autre corps qu'on **suppose** immobile.
 
@@ -59,20 +67,13 @@ Héraclide de Pont.
 
 « C'est pour cela qu'Héraclide de Pont déclarait qu'il est possible de sauver l'irrégularité apparente du mouvement du Soleil en admettant que le Soleil demeure immobile et que la Terre se meut d'une certaine manière. Il n'appartient donc aucunement à l'astronome de connaître quel corps est en repos par nature, de quelle qualité sont les corps mobiles ; il pose à titre d'hypothèse que tels corps sont immobiles, que tels autres sont en mouvement, et il examine quelles sont les suppositions avec lesquelles s'accordent les apparences célestes. »
 
-## S'il n'y a de science que la physique expérimentale
-
-Sur le préjugé qui veut qu'il n'y ait de science que la physique expérimentale.
-
 Duhem, *Sauver les phénomènes*. Le but de la physique est de *sauver les phénomènes*. Cette expression vient de Simplicius, un philosophe platonicien. Astronomie. Les phénomènes : les choses qu'on voit, qu'on observe. Sauver les phénomènes, **imaginer** une combinaison de mouvements dont le résultat soit conforme à l'observation. **Or il est possible de sauver les apparences au moyen de plusieurs hypothèses.** Hypothèse géocentrique, hypothèse héliocentrique, etc. Épicycles. Ni l'immobilité de la terre ni l'immobilité du soleil ne sont des vérités.
 
-On emploie souvent le mot de *science* comme un synonyme de *physique*. Cette opinion, qui veut qu'il n'y ait pas de **certitude** en dehors de la physique, se trouve notamment chez Bacon, l'auteur du *Novum organum*.
+## Texte 1
 
-Jugement de Voltaire sur Bacon : « il est le père de la philosophie expérimentale ». Certains voient dans ce jugement une plaisanterie.
+Lalande, *Abrégé d'astronomie*, livre premier.
 
-J. de Maistre a écrit un livre sur Bacon intitulé *Examen de la philosophie de Bacon*.
-
-Pour Bacon, il n'y a qu'une science, la physique expérimentale. Les autres sciences ne méritent pas vraiment ce nom : elles sont affaires d'opinion, de croyance. La métaphysique, par exemple, n'est pas une science : il n'y a pas de véritables preuves de l'existence de Dieu ou de l'âme humaine. Cette thèse est aussi celle d'un autre livre célèbre, à savoir la *Critique de la raison pure* de Kant. La métaphysique n'est pas une science. Il n'y a pas de preuves de l'existence de Dieu. La métaphysique n'est pas une science parce qu'elle ne s'appuie pas sur **l'expérience**. C'est l'opinion de Bacon. C'est aussi l'idée principale de la philosophie que le XIXe siècle appellera **positivisme**. Auguste Comte. Sciences positives. Sciences fondées sur l'observation, par opposition à la métaphysique. Il n'y a de certitude et donc de science à proprement parler que fondée sur l'expérience. Auguste Comte, grand-prêtre de la religion de l'Humanité. 
-
-Revenons aux idées de Bacon sur la physique. Chapitre XII de l'*Examen de la philosophie de Bacon*.
-
-Maistre traduit avec malice un texte où Bacon parle de ce qui pourrait devenir possible avec le progrès des sciences expérimentales.
+> L'observation de la hauteur du pôle et de la hauteur de l'équateur, ou, si l'on veut, de la hauteur méridienne du soleil en différents pays, fut la première chose qui dut apprendre aux hommes que la terre était ronde. Ce fut d'abord par l'ombre du soleil que l'on détermina les différences de hauteurs du pôle ; plus on avançait vers le nord, plus ces ombres mesurées le même jour se trouvaient longues ; ce qui prouvait que la hauteur du soleil au-dessus de l'horizon était devenue plus petite, et que l'observateur situé vers le nord n'était pas sur le même plan que l'observateur situé vers le midi. On dut en conclure que la terre était arrondie.
+> L'ombre de la terre dans les éclipses de lune paraît toujours ronde ; les vaisseaux vus de loin en pleine mer, disparaissent par degrés ; et on les voit descendre et se perdre peu à peu, par la courbure de la surface des eaux. Telles furent les marques auxquelles les anciens philosophes reconnurent la courbure et la rondeur de la terre.
+> Après avoir ainsi reconnu la rondeur de la terre, on se servit du même moyen pour connaître sa grandeur : et le changement des latitudes et des hauteurs, soit du pôle, soit des astres, servit à connaître l'étendue de notre globe en en mesurant une petite partie [...].
+> Autre exemple : on trouve en allant vers le nord que la latitude d'Amiens est plus grande que celle de Paris d'un degré, ou que le soleil à midi est d'un degré plus bas à Amiens qu'à Paris ; c'est une preuve que la terre a un degré de courbure depuis Paris jusqu'à Amiens ; or cette distance mesurée en allant toujours du midi au nord, s'est trouvée de 25 lieues, chaune de 2283 toises ; donc un degré de la terre, ou la 360e partie de toute sa circonférence, a 25 lieues d'étendue ; d'où il suit que la circonférence entière ou le tour de la terre vaut 9000 lieues ; car 25 fois 360 font 9000.
