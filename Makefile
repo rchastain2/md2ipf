@@ -17,8 +17,8 @@ art \
 indifference
 
 CHAPTERS := $(foreach item,$(CHAPTERS),md/$(item).md)
-WIPFC_DAT := $(HOME)/apps/open-watcom/bld/wipfc/atadir/wipfc
-WIPFC_BIN := $(HOME)/apps/open-watcom/bld/wipfc/wipfc
+WIPFC_DAT := $(HOME)/Documents/pascal/msegui/fpdoc/wipfc-src/data
+WIPFC_BIN := $(HOME)/Documents/pascal/msegui/fpdoc/wipfc-src/wipfc
 DOCVIEW := $(HOME)/apps/docview-260425/target/docview
 
 VERSION := $(shell date '+%y%m%d')
@@ -36,7 +36,7 @@ $(PROJECT): $(CHAPTERS)
 	## Création dossier temporaire
 	mkdir -p tmp
 	## Changement encodage
-	iconv -f UTF-8 -t CP850 $< -o tmp/cp850.ipf
+	iconv -f UTF-8 -t CP850//TRANSLIT $< -o tmp/cp850.ipf
 	## Compilation fichier IPF
 	env WIPFC=$(WIPFC_DAT) $(WIPFC_BIN) -i -o $@.inf -q tmp/cp850.ipf
 	## Ouverture fichier INF dans la visionneuse, avec recherche d'un mot

@@ -1,6 +1,6 @@
 # Socrate, ou le plus sage des hommes
 
-En 399 av. J.-C, la justice athénienne condamne un *philosophe* nommé Socrate à boire du poison. C'est le procès de ce philosophe qui est raconté dans le livre intitulé :hp1.Apologie de Socrate:ehp1., c'est-à-dire défense de Socrate.
+En 399 av. J.-C, la justice athénienne condamne un *philosophe* nommé Socrate à boire du poison. C'est le procès de ce philosophe qui est raconté dans le livre intitulé *Apologie de Socrate*, c'est-à-dire défense de Socrate.
 
 ## Vocabulaire
 
@@ -25,9 +25,9 @@ Plus précisément, c'est **l'oracle de Delphes** qui a dit qu'il n'y avait pas 
 
 ## Le sens de l'oracle
 
-Lorsqu'il apprend ce que l'oracle a dit de lui, Socrate est étonné, parce qu'il croit pas être plus sage qu'un autre. Il se demande quel est le :hp2.sens caché:ehp2. de l'oracle.
+Lorsqu'il apprend ce que l'oracle a dit de lui, Socrate est étonné, parce qu'il croit pas être plus sage qu'un autre. Il se demande quel est le **sens caché** de l'oracle.
 
-Afin de découvrir le sens caché de l'oracle, Socrate :hp2.s'entretient:ehp2. avec un politique qui passe pour très sage.
+Afin de découvrir le sens caché de l'oracle, Socrate **s'entretient** avec un politique qui passe pour très sage.
 
 Socrate **examine** cet homme (comme le ferait un médecin ou une sage-femme), et il découvre que cet homme n'est pas aussi sage qu'il croit. Il essaie alors de **faire voir et sentir** à cet homme qu'il n'est pas aussi sage ou aussi savant qu'il croit, et ce faisant il se fait haïr.
 

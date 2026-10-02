@@ -5,6 +5,14 @@ io.write(string.format(':title.%s\n', arg[1]))
 local lListFlag = false
 local lQuoteFlag = false
 local lTable = nil
+local lChapter = 0
+local lRes = 0
+
+local function Escape(s)
+  s = string.gsub(s, '&', '&amp.')
+  s = string.gsub(s, ':([^%s%p])', '&colon.%1')
+  return s
+end
 
 local function Emphasis(s)
   s = string.gsub(s, '%*%*(.-)%*%*', ':hp2.%1:ehp2.')
@@ -33,7 +41,7 @@ local function FlushTable()
   local lWidths = {}
   for _, lRow in ipairs(lTable) do
     for j, lCell in ipairs(lRow) do
-      lWidths[j] = math.max(lWidths[j] or 0, utf8.len(lCell) + 2)
+      lWidths[j] = math.max(lWidths[j] or 0, utf8.len((string.gsub(lCell, '&%w+%.', '_'))) + 2)
     end
   end
   io.write(string.format(":table cols='%s' rules=both frame=box.\n", table.concat(lWidths, ' ')))
@@ -53,6 +61,7 @@ end
 
 for i = 2, #arg do
   for s in io.lines(arg[i]) do
+    s = Escape(s)
 
     if string.sub(s, 1, 2) == '> ' then
       if not lQuoteFlag then
@@ -90,10 +99,21 @@ for i = 2, #arg do
       
       local lChar = string.sub(s, 1, 1)
       
+      local lIndex = nil
+
       if lChar == '#' then
-        s = string.gsub(s, '### (.+)', ':h3.%1')
-        s = string.gsub(s, '## (.+)', ':h2.%1')
-        s = string.gsub(s, '# (.+)', ':h1.%1')
+        local lTitle = string.gsub(string.match(s, '^#+ (.+)') or '', '%*', '')
+        if string.match(s, '^# ') then
+          lChapter = lChapter + 1
+          lIndex = string.format(':i1 id=chap%d.%s', lChapter, lTitle)
+        elseif string.match(s, '^## ') and lChapter > 0 then
+          lIndex = string.format(':i2 refid=chap%d.%s', lChapter, lTitle)
+        end
+        local lLevel, lText = string.match(s, '^(#+) (.+)')
+        if lLevel and #lLevel <= 3 then
+          lRes = lRes + 1
+          s = string.format(':h%d res=%d.%s', #lLevel, lRes, lText)
+        end
       end
       
       if (lChar ~= ':') and (lChar ~= '#') then
@@ -108,6 +128,10 @@ for i = 2, #arg do
       end
       
       s = Emphasis(s)
+
+      if lIndex then
+        s = s .. '\n' .. lIndex
+      end
     end
 
     io.write(s .. '\n')

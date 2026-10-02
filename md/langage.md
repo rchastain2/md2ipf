@@ -24,7 +24,7 @@ Cette philosophie imagine que les premiers hommes ne vivaient pas en société e
 
 Cette philosophie voit nécessairement dans le langage **une invention humaine**. C'est la thèse de Condillac. Il est à noter que Rousseau, lui, a clairement rejeté cette théorie. La parole, dit Rousseau, a été nécessaire pour inventer la parole.
 
-C'est cet argument de Rousseau que Bonald va développer et approfondir, de façon à **démontrer l'impossibilité de l'invention du langage*.
+C'est cet argument de Rousseau que Bonald va développer et approfondir, de façon à **démontrer l'impossibilité de l'invention du langage**.
 
 L'homme n'a pas inventé le langage ; il l'a **reçu**, comme il a reçu la vie. Le langage, comme la vie, se transmet et se reçoit.
 
