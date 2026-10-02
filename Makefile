@@ -17,18 +17,20 @@ art \
 indifference
 
 CHAPTERS := $(foreach item,$(CHAPTERS),md/$(item).md)
-WIPFC := $(HOME)/apps/open-watcom/bld/wipfc/atadir/wipfc
-DOCVIEW := $(HOME)/apps/docview/docview
+WIPFC_DAT := $(HOME)/apps/open-watcom/bld/wipfc/atadir/wipfc
+WIPFC_BIN := $(HOME)/apps/open-watcom/bld/wipfc/wipfc
+DOCVIEW := $(HOME)/apps/docview-260425/target/docview
+
 VERSION := $(shell date '+%y%m%d')
 SCRIPT := md2ipf.lua
 
 $(PROJECT): $(CHAPTERS)
 	lua $(SCRIPT) "$(TITLE)" $^ > book.ipf
-	make book
+	$(MAKE) book
 
 %: md/%.md
 	lua $(SCRIPT) "$(TITLE)" $< > chapter.ipf
-	make chapter
+	$(MAKE) chapter
 
 %: %.ipf
 	## Création dossier temporaire
@@ -36,7 +38,7 @@ $(PROJECT): $(CHAPTERS)
 	## Changement encodage
 	iconv -f UTF-8 -t CP850 $< -o tmp/cp850.ipf
 	## Compilation fichier IPF
-	env WIPFC=$(WIPFC) wipfc -i -o $@.inf -q tmp/cp850.ipf
+	env WIPFC=$(WIPFC_DAT) $(WIPFC_BIN) -i -o $@.inf -q tmp/cp850.ipf
 	## Ouverture fichier INF dans la visionneuse, avec recherche d'un mot
 	$(DOCVIEW) $@.inf -k "science"
 
@@ -46,6 +48,9 @@ release: $(PROJECT)
 edit:
 	textadept $(CHAPTERS)
 
+bmp:
+	magick md/earth3_400x300.png -format bmp -define bmp:format=bmp3 md/earth3_400x300.bmp
+	
 clean:
 	rm -fv *.i?f
 	rm -fv tmp/*.i?f

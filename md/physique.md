@@ -1,25 +1,15 @@
 
 # De la terre
 
-C'est le titre de la quatrième partie des *Principes de la philosophie* (de Descartes).
+De la rondeur de la terre. De sa grandeur. Du mythe de la terre plate. Du mouvement de la terre.
 
-De la rondeur de la terre. De sa grandeur. De son mouvement.
+Astronomes. Ératosthène. Copernic. Lalande.
 
-Astronomes. Pierre Duhem, *La théorie physique : son objet, sa structure*.
+Pierre Duhem, *La théorie physique : son objet, sa structure*.
 
-## I. De la rondeur (et de la grandeur) de la terre
+## De la rondeur de la terre
 
-Comment sait-on que la terre est ronde ?
-
-### Hauteur méridienne du soleil
-
-Lalande, astronome du XVIIIe siècle.
-
-Observation de la hauteur méridienne du soleil.
-
-> L'observation de la hauteur méridienne du soleil en différents pays, fut la première chose qui dut apprendre aux hommes que la terre était ronde.
-
-### Autres observations
+On peut savoir que la terre est ronde sur la base de plusieurs **observations**.
 
 Croissants de lune. Ombre de la terre.
 
@@ -29,19 +19,33 @@ Copernic, *Des révolutions des orbes célestes*.
 
 > Lorsque la terre n'est pas aperçue du navire, elle est vue du sommet du mât. Si l'on attache un feu au sommet du mât, celui-ci, lorsque le navire s'éloigne de la terre, paraît à ceux qui demeurent sur le rivage s'abaisser petit à petit, jusqu'à ce qu'il disparaisse enfin, comme s'il se couchait.
 
-### Grandeur de la terre
+Observation de la hauteur méridienne du soleil.
 
-Le même moyen permet de connaître la grandeur, la circonférence de la terre.
+Lalande, *Abrégé d'astronomie*, livre premier.
 
-La circonférence de la terre est de 9000 lieues, ou 360 fois la distance à vol d'oiseau de Paris à Amiens. La latitude d'Amiens est plus grande que celle de Paris d'un degré. La lieue commune de France vaut exactement 4,4453 km.
+> L'observation de la hauteur méridienne du soleil en différents pays, fut la première chose qui dut apprendre aux hommes que la terre était ronde.
 
-Ératosthène.
+## De la grandeur de la terre
 
-### De la terre plate
+Le même moyen permet de connaître la grandeur de la terre.
 
-Sur le mythe de la terre plate.
+C'est de ce moyen que s'est servi Ératosthène.
 
-## II. Du mouvement de la terre
+![Longueur des ombres à différentes latitudes](earth3_400x300.png)
+
+La circonférence de la terre est de **9000 lieues**, ou **360 fois la distance à vol d'oiseau de Paris à Amiens**. La latitude d'Amiens est plus grande que celle de Paris d'un degré.
+
+La lieue commune de France valant exactement 4,4453 km, la circonférence de la terre est de 9000 x 4,4453 = 40007,7 km.
+
+## Du mythe de la terre plate
+
+Personne n'a jamais enseigné que la terre était plate.
+
+Le mythe de la croyance médiévale en une terre plate est une invention de Voltaire (*Dictionnaire philosophique*, « Figure ou forme de la terre »).
+
+C'est de ce même philosophe qu'est venue cette autre idée fausse, selon laquelle ce seraient les grands navigateurs qui auraient prouvé, par l'expérience, la sphéricité de la terre, en en faisant le tour.
+
+## Du mouvement de la terre
 
 Lieu commun.
 
@@ -76,4 +80,4 @@ Lalande, *Abrégé d'astronomie*, livre premier.
 > L'observation de la hauteur du pôle et de la hauteur de l'équateur, ou, si l'on veut, de la hauteur méridienne du soleil en différents pays, fut la première chose qui dut apprendre aux hommes que la terre était ronde. Ce fut d'abord par l'ombre du soleil que l'on détermina les différences de hauteurs du pôle ; plus on avançait vers le nord, plus ces ombres mesurées le même jour se trouvaient longues ; ce qui prouvait que la hauteur du soleil au-dessus de l'horizon était devenue plus petite, et que l'observateur situé vers le nord n'était pas sur le même plan que l'observateur situé vers le midi. On dut en conclure que la terre était arrondie.
 > L'ombre de la terre dans les éclipses de lune paraît toujours ronde ; les vaisseaux vus de loin en pleine mer, disparaissent par degrés ; et on les voit descendre et se perdre peu à peu, par la courbure de la surface des eaux. Telles furent les marques auxquelles les anciens philosophes reconnurent la courbure et la rondeur de la terre.
 > Après avoir ainsi reconnu la rondeur de la terre, on se servit du même moyen pour connaître sa grandeur : et le changement des latitudes et des hauteurs, soit du pôle, soit des astres, servit à connaître l'étendue de notre globe en en mesurant une petite partie [...].
-> Autre exemple : on trouve en allant vers le nord que la latitude d'Amiens est plus grande que celle de Paris d'un degré, ou que le soleil à midi est d'un degré plus bas à Amiens qu'à Paris ; c'est une preuve que la terre a un degré de courbure depuis Paris jusqu'à Amiens ; or cette distance mesurée en allant toujours du midi au nord, s'est trouvée de 25 lieues, chaune de 2283 toises ; donc un degré de la terre, ou la 360e partie de toute sa circonférence, a 25 lieues d'étendue ; d'où il suit que la circonférence entière ou le tour de la terre vaut 9000 lieues ; car 25 fois 360 font 9000.
+> Autre exemple : on trouve en allant vers le nord que la latitude d'Amiens est plus grande que celle de Paris d'un degré, ou que le soleil à midi est d'un degré plus bas à Amiens qu'à Paris ; c'est une preuve que la terre a un degré de courbure depuis Paris jusqu'à Amiens ; or cette distance mesurée en allant toujours du midi au nord, s'est trouvée de 25 lieues, chacune de 2283 toises ; donc un degré de la terre, ou la 360e partie de toute sa circonférence, a 25 lieues d'étendue ; d'où il suit que la circonférence entière ou le tour de la terre vaut 9000 lieues ; car 25 fois 360 font 9000.

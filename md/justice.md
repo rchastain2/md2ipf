@@ -253,11 +253,9 @@ Dans l'esprit de Socrate, cette égalité n'est pas synonyme de justice, mais pl
 
 17/10/2025
 
-La démocratie dans *La République* de Platon.
+La démocratie dans *La République* de Platon. Nature de la démocratie. Passage de la démocratie à la tyrannie. Genre de vie de l'homme démocratique.
 
-1. Nature de la démocratie. 2. Passage de la démocratie à la tyrannie. 3. Genre de vie de l'homme démocratique.
-
-1. Nature de la démocratie.
+### Nature de la démocratie.
 
 Chacun sait que ce mot de démocratie veut dire littéralement «gouvernement du peuple». Or on peut douter de l'existence et même de la possibilité d'une telle chose. Si le peuple est souverain, de qui est-il le souverain?
 
@@ -271,7 +269,7 @@ La cité démocratique ressemble donc à un vêtement bigarré. Bigarrure: Assem
 
 La cité démocratique est donc comme **un bazar de constitutions**. Bazar: magasin où l'on trouve de tout. La démocratie n'est donc pas une constitution, mais un assemblage.
 
-2. Passage de la démocratie à la tyrannie.
+### Passage de la démocratie à la tyrannie.
 
 La démocratie, dit Socrate, dégénère naturellement en tyrannie.
 
@@ -281,7 +279,7 @@ Il se produit une réaction naturelle, qui change la démocratie en tyrannie: «
 
 L'écart entre démocratie et tyrannie n'est pas si grand. Le tyran réalise pour lui-même le rêve du démocrate, qui est de faire absolument tout ce qui lui plaît.
 
-3. Le genre de vie de l'homme démocratique.
+### Le genre de vie de l'homme démocratique.
 
 Platon compare constamment le gouvernement de la cité au gouvernement intérieur de l'homme. À chaque façon de gouverner les autres correspond une façon de se gouverner soi-même. Donc il y a un homme démocratique comme il y a une cité démocratique.
 
