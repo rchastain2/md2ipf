@@ -1,6 +1,6 @@
 # Sommaire
 
-Voir aussi le [sommaire](00-sommaire.md) et le [cours complet](cours-complet.md).
+Voir aussi le [sommaire](00-sommaire.md).
 
 - [Chapitre 1. Socrate et la sagesse](01-socrate.md)
 - [Chapitre 2. Socrate et l'enseignement](02-enseignement.md)

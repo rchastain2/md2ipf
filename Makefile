@@ -51,6 +51,9 @@ $(PROJECT): $(CHAPTERS) $(BMPS) index.txt $(SCRIPT)
 release: $(PROJECT)
 	zip $(PROJECT)-$(VERSION).zip book.inf 
 
+cours-complet: $(CHAPTERS)
+	{ echo "# $(TITLE)"; for f in $(CHAPTERS); do echo; echo; cat "$$f"; done; } > md/cours-complet.md
+
 edit:
 	textadept $(CHAPTERS)
 
@@ -66,3 +69,6 @@ clean:
 
 distclean: clean
 	rm -fv $(BMPS)
+	rm -fv md/cours-complet.md
+
+.PHONY: $(PROJECT) release edit bmp clean distclean cours-complet
