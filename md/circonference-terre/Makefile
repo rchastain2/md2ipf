@@ -1,0 +1,44 @@
+
+SOURCES := $(filter-out aggexample.pas,$(wildcard *.pas))
+TARGETS := $(SOURCES:%.pas=%)
+
+ifdef LCL
+LAZARUS := ~/Documents/sources/lazarus
+AGGPAS := $(LAZARUS)/components/aggpas/src
+else
+FPGUI := ~/Documents/sources/fpgui
+AGGPAS := $(FPGUI)/framework/src/main/pascal/corelib/render/software
+AGGEXT := $(FPGUI)/extras/aggpas
+endif
+
+PC := fpc
+PFLAGS := -Mdelphi
+PFLAGS += -Fi$(AGGPAS)
+PFLAGS += -Fu$(AGGPAS)
+#PFLAGS += -Fu$(AGGPAS)/platform/linux
+#PFLAGS += -Fu$(AGGPAS)/ctrl
+#PFLAGS += -Fu$(AGGPAS)/util
+ifndef LCL
+PFLAGS += -Fu$(AGGEXT)
+endif
+
+PFLAGS += -FUunits
+
+default: earth3
+
+%: %.pas
+ifeq ($(OS),Windows_NT)
+	@if not exist units mkdir units
+else
+	@[ -d units ] || mkdir -p units
+endif
+	@$(PC) $< $(PFLAGS)
+	@./$@
+	@magick $@.png -crop 800x600+500+0 temp.png
+	@mv -fv temp.png $@.png
+
+clean:
+	@rm -fv *.bak *.log $(TARGETS)
+
+distclean: clean
+	@rm -fv units/*.o units/*.ppu

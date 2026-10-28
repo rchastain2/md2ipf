@@ -1,0 +1,41 @@
+
+% https://tex.stackexchange.com/a/59706/295527
+
+\documentclass{article}
+%\usepackage[T1]{fontenc}
+\usepackage{ntheorem}
+\newtheorem{theorem}{Theorem}
+\usepackage{amsmath}
+\DeclareMathOperator{\Res}{Res}
+
+%% Choose one of the following (if not choosing the  
+%% default, viz., Computer Modern, font family):
+%\usepackage{lmodern}
+%%
+%\usepackage{mathpazo}
+%\usepackage[theoremfont]{newpxmath} \usepackage{newpxmath}
+%\usepackage{kpfonts}
+%%
+%\usepackage{mathptmx}
+%\usepackage{times,mtpro2}
+%\usepackage{stix}
+%\usepackage{txfonts}
+%\usepackage{newtxtext,newtxmath}
+%%
+%\usepackage{libertine} \usepackage[libertine]{newtxmath}
+%\usepackage{libertine,libertinust1math} % added 2019/11/28
+%%
+%\usepackage{newpxtext} \usepackage[euler-digits]{eulervm}
+
+\begin{document}\pagestyle{empty}
+\begin{theorem}[Residue Theorem]
+Let $f$ be analytic in the region $G$ except for the isolated 
+singularities $a_1,a_2,\dots,a_m$. If $\gamma$ is a closed 
+rectifiable curve in $G$ which does not pass through any of the 
+points $a_k$ and if $\gamma\approx 0$ in $G$, then
+\[
+  \frac{1}{2\pi i}\int_\gamma\! f = \sum_{k=1}^m 
+  n(\gamma;a_k)\Res(f;a_k)\,.
+\]
+\end{theorem}
+\end{document}

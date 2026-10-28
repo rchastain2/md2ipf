@@ -1,0 +1,55 @@
+\documentclass[12pt]{article}
+
+\usepackage{metalogo}
+\usepackage{xcolor}
+
+\usepackage[french]{babel}
+%\usepackage{unicode-math}
+
+%\setmainfont{TeX Gyre Schola}
+%\setmathfont{TeX Gyre Schola Math}
+
+%\setmainfont{TeX Gyre Termes}
+%\setmathfont{TeX Gyre Termes Math}
+
+%\setmainfont{TeX Gyre Bonum}
+%\setmathfont{TeX Gyre Bonum Math}
+
+%\setmainfont{TeX Gyre Pagella}
+%\setmathfont{TeX Gyre Pagella Math}
+
+%\usepackage{mathpazo}
+%\usepackage{kpfonts}
+%\usepackage{amsmath}
+\usepackage{newpxmath}
+
+\begin{document}
+\subsection*{Intersections d'une droite et d'un cercle}
+
+\bigskip
+Droite.
+\[ y = ax + b \]
+
+\medskip
+Cercle.
+\[ x^2 + y^2 - r^2 = 0 \]
+
+\medskip
+Intersections.
+\[ (a^2 + 1)x^2 + 2abx + b^2 - r^2 = 0 \]
+
+\medskip
+Discriminant.
+\[ \Delta = (2ab)^2 - 4(a^2 + 1)(b^2 - r^2) \]
+
+\medskip
+Solutions (si \( \Delta \geq 0 \)).
+\[ x = \frac{-2ab \pm \sqrt{\Delta}}{2(a^2 + 1)} \]
+
+\medskip
+\begin{flushright}
+\color{blue}
+\small\LuaLaTeX
+\end{flushright}
+
+\end{document}

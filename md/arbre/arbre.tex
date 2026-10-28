@@ -1,0 +1,26 @@
+% https://texblog.org/2015/09/16/drawing-trees-with-tikzpgf-and-lualatex/
+
+\documentclass[tikz,border=24]{standalone}
+
+\usepackage{fontspec}
+
+\usepackage[french]{babel}
+
+\usepackage{tikz}
+\usetikzlibrary{graphdrawing.trees}
+
+\begin{document}
+  \begin{tikzpicture}[sibling distance=4cm]
+  
+    \node{liberté}
+      child { node {liberté de droit} }
+      child { node {liberté de fait}
+        child { node {liberté de faire} }
+        child { node {liberté de vouloir}
+          child { node[align=center] {contre les passions\\(liberté du sage)} }
+          child { node[align=center] {contre la nécessité\\(libre arbitre)} }
+        }
+      };
+  
+  \end{tikzpicture}
+\end{document}

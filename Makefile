@@ -1,7 +1,7 @@
 PROJECT := philosophie
 TITLE := Cours de philosophie (en construction)
 
-SRC := ../md2html-lua/markdown
+SRC := md
 
 CHAPTERS := \
 01-socrate \

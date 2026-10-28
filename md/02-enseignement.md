@@ -1,0 +1,63 @@
+# Chapitre 2. Socrate et l'enseignement
+
+Platon, *Ménon*.
+
+Socrate n'enseigne pas. Il soutient qu'il n'y a pas d'enseignement. L'art qu'il pratique, c'est la **maïeutique**.
+
+Qu'est-ce qu'apprendre ? C'est se ressouvenir.
+
+## I. La maïeutique
+
+La maïeutique, au sens propre, c'est l'art des accouchements : c'est l'art qu'exerce la sage-femme.
+
+Quant à Socrate, il aide ceux avec qui il s'entretient à accoucher de beaux discours.
+
+Comment ? Par sa façon de les interroger.
+
+Socrate interroge ceux qui passent, à tort ou à raison, pour savants, sur ce qu'ils croient savoir le mieux.
+
+La sagesse de Socrate consiste dans son aptitude à reconnaître la vraie science, et dans la conscience qu'il a de sa propre ignorance.
+
+Socrate s'oppose aux sophistes, aux « marchands de science », qui distribuent la science comme une marchandise et prétendent « l'introduire dans l'âme, où elle n'est pas, comme on donnerait la vue à des yeux aveugles ». Socrate prétend au contraire qu'il n'y a pas d'enseignement au sens où l'entendent les sophistes. Apprendre, dit-il (de façon un peu mystérieuse), n'est autre chose que se ressouvenir. La science est **réminiscence**.
+
+## II. Le carré deux fois plus grand
+
+### A. Résumé
+
+Ménon demande à Socrate de lui prouver ce que ce dernier avance, à savoir qu'il n'y a pas d'enseignement.
+
+Socrate propose une **expérience** qui consiste à proposer un problème de géométrie à un jeune serviteur. Le problème consiste, à partir d'un carré donné, à construire un carré deux fois plus grand : comment doubler la surface d'un carré ?
+
+Le serviteur répond avec assurance, en homme qui sait. Il croit savoir que pour doubler la surface il faut doubler le côté. Or, en doublant le côté d'un carré, on quadruple sa surface.
+
+Finalement le serviteur se rend compte qu'il ne sait pas. Il est embarrassé, il ne sait plus quoi dire. Il se sent moins bien qu'au début, mais son état présent vaut mieux.
+
+En ne faisant que poser des questions, Socrate amène le serviteur à trouver de lui-même la solution. Il lui **fait voir** que le carré deux fois plus grand est celui qui a pour côté la diagonale du carré. Le serviteur le **sait** parce qu'il l'a **vu** : non pas avec les yeux, mais au moyen d'un raisonnement.
+
+### B. Lecture d'un fragment du *Ménon*
+
+Ménon demande à Socrate une explication au sujet d'une chose que Socrate soutient, à savoir qu'il n'y a pas d'enseignement ; que nous n'apprenons pas ; ou encore qu'apprendre n'est autre chose que se ressouvenir ; que la science est une réminiscence.
+
+Afin de montrer à Ménon qu'il en est ainsi, Socrate soumet à un serviteur un problème de géométrie. Il s'agit de savoir comment construire un carré deux fois plus grand qu'un carré donné. Il s'agit de savoir comment doubler la surface d'un carré. En supposant que le carré initial ait un côté long de deux pieds, quelle sera la longueur du côté du carré deux fois plus grand ? C'est ce qu'on cherche à savoir. Socrate, en interrogeant le serviteur et sans jamais rien lui enseigner, va le conduire à trouver la solution du problème.
+
+**Premier essai de réponse.** Le serviteur de Ménon pense d'abord que le carré deux fois plus grand aura un côté d'une longueur de quatre pieds. Il lui paraît **évident** que pour doubler la surface il faut doubler la longueur du côté. La question lui paraît facile ; il **croit savoir** comment construire le carré deux fois plus grand.
+
+Or, en doublant le côté, on obtient un carré, non pas deux fois plus grand, mais quatre fois.
+
+**Deuxième essai de réponse.** La longueur recherchée est donc comprise entre deux et quatre. D'où le serviteur conclut que c'est trois : nouvelle erreur, puisqu'on obtient ainsi un carré de neuf pieds de surface, au lieu de huit. L'erreur du serviteur est de ne considérer que les nombres entiers.
+
+**Embarras.** Le serviteur ne sait plus quoi dire : il se rend compte qu'il **ne sait pas** comment construire le carré deux fois plus grand. Il a perdu **l'assurance** qu'il avait au début. Cet embarras de celui qui ne sait quoi répondre, la langue grecque l'appelle *aporie*.
+
+L'état dans lequel se trouve à présent le serviteur est moins agréable, mais il vaut mieux. Socrate ne lui a fait aucun tort, mais lui a plutôt rendu service. Socrate a mis le serviteur dans l'embarras. Il se compare lui-même à la torpille, ce poisson qui engourdit celui qui le touche. Maintenant que le serviteur a conscience de ne pas connaître la solution, il n'ira pas se ridiculiser en prétendant qu'il la connaît. En outre, il est maintenant disposé à chercher : il **aimerait savoir** quelle est la longueur du côté de ce carré.
+
+**Solution.** Le carré deux fois plus grand a pour côté la *diagonale* (comme disent les experts). C'est la diagonale qui engendre l'espace double. Pour le voir, il faut remarquer que la diagonale coupe le carré en deux triangles égaux. C'est une chose dont tout le monde convient, ou un axiome, c'est-à-dire une chose que nous connaissons naturellement, une notion commune.
+
+Le serviteur sait à présent ce qu'il ignorait au départ, sans cependant l'avoir appris de Socrate. C'est comme s'il s'en était ressouvenu ; comme une réminiscence.
+
+## III. Conclusion
+
+Socrate a de l'éducation et de la science une conception opposée à celle des sophistes.
+
+Savoir, c'est comprendre ; et comprendre, c'est voir. Le serviteur finit par **voir** le carré deux fois plus grand : mais il ne le voit pas avec ses yeux ; il le voit par la pensée.
+
+On retrouvera cette méthode et cette conception de la science plus loin dans le cours : dans l'allégorie de la caverne (chapitre sur la justice), où l'éducation est présentée comme une conversion de l'âme vers la lumière ; et dans le dialogue de saint Augustin *Du libre arbitre* (chapitre sur la liberté), où Évodius, comme le serviteur du *Ménon*, se rend compte qu'il ne sait pas ce qu'il croyait savoir.
